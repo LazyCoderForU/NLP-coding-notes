@@ -1,0 +1,2 @@
+this is a file and i want to write to it something vert 
+important and this is the second line of the file
